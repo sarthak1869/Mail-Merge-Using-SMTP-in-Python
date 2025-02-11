@@ -1,0 +1,11 @@
+Subject: Results of <<Subject>>.
+
+Hi <<Name>>,
+
+Here's your score for the mocks:
+
+- Subject: <<Subject>>
+- Score: <<Score>>
+
+Best regards,  
+Imarticus
